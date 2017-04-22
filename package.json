@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "monitor": "webpack -w"
+    "monitor": "webpack -w",
+    "start": "node server.js"
   },
   "author": "Montrail",
   "license": "MIT",
